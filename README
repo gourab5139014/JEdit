@@ -1,5 +1,7 @@
 The objective of this assignment to build an editor that identifies JAVA tokens. 
 
+This project was created using Visual Studio 2010
+
 Keywords.xml  - Contains the list of keyword that need to be identified in the richTextBox. Keywords can be added or deleted to this XML File as and when required.
 
 - Gourab Mitra, 2010
