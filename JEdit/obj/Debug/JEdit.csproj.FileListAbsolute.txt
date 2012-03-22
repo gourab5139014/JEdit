@@ -1,0 +1,13 @@
+C:\C#_projects\JEdit\JEdit\bin\Debug\JEdit.exe
+C:\C#_projects\JEdit\JEdit\bin\Debug\JEdit.pdb
+C:\C#_projects\JEdit\JEdit\obj\Debug\ResolveAssemblyReference.cache
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.Form1.resources
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.Properties.Resources.resources
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.csproj.GenerateResource.Cache
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.exe
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.pdb
+C:\C#_projects\JEdit\JEdit\bin\Debug\keywords.xml
+C:\C#_projects\JEdit\JEdit\bin\Debug\JEdit.exe.manifest
+C:\C#_projects\JEdit\JEdit\bin\Debug\JEdit.application
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.exe.manifest
+C:\C#_projects\JEdit\JEdit\obj\Debug\JEdit.application
